@@ -1,0 +1,7 @@
+fastapi==0.112.*
+uvicorn[standard]==0.30.*
+pydantic==2.*
+rapidfuzz==3.*
+requests==2.*
+streamlit==1.37.*
+openai==1.*
